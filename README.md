@@ -1,77 +1,93 @@
-# 🙋‍♀️ Hey there, I'm Sakshi Gupta!
+<!-- Sakshi Gupta's GitHub Profile README -->
 
-**Frontend Developer** 💻 | **DSA Enthusiast** 📊 | **Backend Learner** 🌱  
-📍 templehubsakshi · 
+<h1 align="center">Hey 👋, I'm Sakshi Gupta</h1>
+<h3 align="center">Frontend Developer 💻 | DSA Enthusiast 📊 | Backend Learner 🌱</h3>
 
----
-
-## 🚀 About Me
-
-I’m a passionate second-year B.Tech CSE student who loves turning ideas into reality through clean code and creative UI.  
-With a blend of **React-based frontend skills** and a growing knowledge of **Node.js & MongoDB**, I build full-stack web experiences that are both functional and fun.  
-
-I’ve solved over **550+ problems on LeetCode** and **150+ on CodeChef**, constantly learning and growing in problem-solving and web development.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&color=F79AD3&width=435&lines=Passionate+about+building+cool+UIs;Always+curious+to+learn+new+things;Let%E2%80%99s+build+something+amazing!" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## 🌸 About Me
 
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)  
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)  
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)
+Hi! I’m Sakshi, a second-year B.Tech CSE student. I love creating **clean**, **interactive**, and **purpose-driven** web experiences.  
+I'm currently learning backend tech to go full-stack and actively building personal projects that reflect my learning journey.
+
+- 🔭 Currently working on: **TrekUp – Productivity Tracker**
+- 🌱 Currently learning: **Node.js, MongoDB, Express**
+- 💪 DSA progress: **550+ LeetCode**, **150+ CodeChef**
+- ✨ Goal: Start contributing to open source soon!
 
 ---
 
-## 📌 Highlight Projects
+## 🔧 Tech Stack
 
-### 📊 **TrackUp** – Productivity Tracker  
-> A sleek, user-friendly web app for tracking tasks, goals, and progress with local storage and visual UI elements.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-### 👩‍💼 **Employee Management System**  
-> A CRUD-based React app to manage employee records with validations and smooth UX using TailwindCSS.
+---
 
-### 🌐 **My Developer Portfolio**  
-> My personal portfolio showcasing my skills, projects, and coding journey.  
-🔗 [View Portfolio](https://templehubsakshi.github.io/MY-PORTFOLIO/)
+## 💼 Featured Projects
+
+### 🚀 [TrekUp – Productivity Tracker](#)
+> A stylish task tracker that helps users stay organized and productive. Built with React and Tailwind with local storage and analytics-style UI.
+
+### 👩‍💼 Employee Management System
+> A CRUD-based employee record system with a responsive UI using React and form validations.
+
+### 🌐 [My Portfolio Website](https://templehubsakshi.github.io/MY-PORTFOLIO/)
+> My personal developer portfolio built to showcase my projects, skills, and journey — crafted with love 💙
 
 ---
 
 ## 📈 GitHub Stats
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=templehubsakshi&show_icons=true&theme=radical" width="47%" />
-  <img src="https://streak-stats.demolab.com/?user=templehubsakshi&theme=radical" width="47%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=templehubsakshi&show_icons=true&theme=radical" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=templehubsakshi&theme=radical" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=templehubsakshi&layout=compact&theme=radical" width="50%" />
 </p>
 
 ---
 
-## 🧠 Coding Journey
+## 🧠 DSA Journey
 
-- ✅ **LeetCode:** 550+ problems solved  
-- ✅ **CodeChef:** 150+ questions solved  
-- 💡 Constantly practicing C++ & DSA  
-- 👩‍💻 Regular participant in coding contests
-
----
-
-## 🔗 Let’s Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/sakshi-gupta-40335429a/)
-- 🌍 [Portfolio Website](https://templehubsakshi.github.io/MY-PORTFOLIO/)
-- 📧 sgy7880@gmail.com
+- 🔥 **550+ problems** solved on LeetCode  
+- 🚀 **150+ questions** solved on CodeChef  
+- 🧩 Consistently practicing algorithms & data structures using **C++**
 
 ---
 
-## ✨ Personal Quote
+## 🔗 Let's Connect
 
-> *"Main sirf features nahi, poora experience design karti hoon."* 🌸  
-Let’s connect, build, and grow together!
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakshi-gupta-40335429a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://templehubsakshi.github.io/MY-PORTFOLIO/">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
+## ✨ Quote I Live By
+
+> *"Main sirf features nahi, poora experience design karti hoon."* 🌸
+
+---
+
+⭐ _Thanks for visiting my profile! Let's collaborate and grow together._  
