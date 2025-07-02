@@ -1,84 +1,79 @@
-<!-- Sakshi Gupta's GitHub Profile README -->
+<!-- 💖 Sakshi Gupta GitHub Profile README -->
 
-<h1 align="center">Hey 👋, I'm Sakshi Gupta</h1>
-<h3 align="center">Frontend Developer 💻 | DSA Enthusiast 📊 | Backend Learner 🌱</h3>
+<h1 align="center">Hi 👋, I'm Sakshi Gupta</h1>
+<h3 align="center">Frontend Dev 🌐 | DSA Coder 🧠 | Backend Learner ⚙️ | Tech Explorer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&color=F79AD3&width=435&lines=Passionate+about+building+cool+UIs;Always+curious+to+learn+new+things;Let%E2%80%99s+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=FF66C4&lines=Crafting+Clean+and+Creative+UIs;DSA+Problem+Solver+💡;Learning+Every+Single+Day;Let’s+Build+Something+Awesome+Together!" />
 </p>
 
 ---
 
 ## 🌸 About Me
 
-Hi! I’m Sakshi, a second-year B.Tech CSE student. I love creating **clean**, **interactive**, and **purpose-driven** web experiences.  
-I'm currently learning backend tech to go full-stack and actively building personal projects that reflect my learning journey.
+Hey there! I'm **Sakshi**, a curious and creative second-year B.Tech CSE student, driven by passion for clean design and strong logic.  
+I love building web apps with beautiful UIs and powerful functionality. I’m currently learning backend to become a full-stack force! 💪
 
-- 🔭 Currently working on: **TrekUp – Productivity Tracker**
-- 🌱 Currently learning: **Node.js, MongoDB, Express**
-- 💪 DSA progress: **550+ LeetCode**, **150+ CodeChef**
-- ✨ Goal: Start contributing to open source soon!
+- 🔭 Working on: **GreenRank – AI Sustainability Scoring Tool**  
+- 📚 Learning: Node.js, MongoDB, APIs  
+- 🧠 Solved: **550+ LeetCode**, **150+ CodeChef** problems  
+- 🌱 Next: Open-source contribution journey 🚀  
 
 ---
 
-## 🔧 Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,cpp,git,github,vscode" />
 </p>
 
 ---
 
-## 💼 Featured Projects
+## 🌟 Featured Projects
 
-### 🚀 [TrekUp – Productivity Tracker](#)
-> A stylish task tracker that helps users stay organized and productive. Built with React and Tailwind with local storage and analytics-style UI.
+### 🌿 GreenRank – AI Sustainability Scoring  
+> AI-powered tool that scores cities/buildings for eco-friendliness using satellite, weather & solar data.  
+Tech: GEE, ML, React, APIs, SentinelHub
 
-### 👩‍💼 Employee Management System
-> A CRUD-based employee record system with a responsive UI using React and form validations.
+### 👩‍💼 Employee Management System  
+> A CRUD-based React app for managing employee data with clean UI and validations.
 
-### 🌐 [My Portfolio Website](https://templehubsakshi.github.io/MY-PORTFOLIO/)
-> My personal developer portfolio built to showcase my projects, skills, and journey — crafted with love 💙
+### 🌐 [My Portfolio Website](https://templehubsakshi.github.io/MY-PORTFOLIO/)  
+> A showcase of my skills, projects & passion. Built using React & Tailwind. 💖
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=templehubsakshi&show_icons=true&theme=radical" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=templehubsakshi&theme=radical" width="45%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=templehubsakshi&show_icons=true&theme=react&hide_border=false&border_radius=10" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=templehubsakshi&theme=react&hide_border=false&border_radius=10" width="48%" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=templehubsakshi&layout=compact&theme=radical" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=templehubsakshi&layout=compact&theme=react&hide_border=false" width="50%" />
 </p>
 
 ---
+
 
 ## 🧠 DSA Journey
 
-- 🔥 **550+ problems** solved on LeetCode  
-- 🚀 **150+ questions** solved on CodeChef  
-- 🧩 Consistently practicing algorithms & data structures using **C++**
+- ✅ **550+ LeetCode problems solved**  
+- ✅ **150+ CodeChef problems**  
+- 💻 Practicing in **C++**  
+- 🔍 Regularly participating in contests
 
 ---
 
-## 🔗 Let's Connect
+## 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sakshi-gupta-40335429a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/sakshi-gupta-40335429a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://templehubsakshi.github.io/MY-PORTFOLIO/">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://templehubsakshi.github.io/MY-PORTFOLIO/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23171717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -86,8 +81,11 @@ I'm currently learning backend tech to go full-stack and actively building perso
 
 ## ✨ Quote I Live By
 
-> *"Main sirf features nahi, poora experience design karti hoon."* 🌸
+> *"Main sirf features nahi, poora experience design karti hoon."* 🌸  
+> – Sakshi Gupta
 
 ---
 
-⭐ _Thanks for visiting my profile! Let's collaborate and grow together._  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
