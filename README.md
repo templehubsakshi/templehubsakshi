@@ -82,7 +82,7 @@ Tech: GEE, ML, React, APIs, SentinelHub
 ## ✨ Quote I Live By
 
 > *"Main sirf features nahi, poora experience design karti hoon."* 🌸  
-> – Sakshi Gupta
+> –- Sakshi Gupta
 
 ---
 
