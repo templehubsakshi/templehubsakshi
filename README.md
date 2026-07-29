@@ -181,12 +181,17 @@ I combine strong **DSA fundamentals (750+ problems)** with hands-on **MERN stack
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=templehubsakshi&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=templehubsakshi&theme=radical&hide_border=false" height="165" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=templehubsakshi&theme=radical" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=templehubsakshi&layout=compact&theme=radical&hide_border=false&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=templehubsakshi&theme=radical" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=templehubsakshi&theme=radical" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=templehubsakshi&theme=radical" height="165" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=templehubsakshi&theme=radical" height="165" alt="Repos per language" />
 </p>
 
 ---
@@ -202,7 +207,7 @@ I combine strong **DSA fundamentals (750+ problems)** with hands-on **MERN stack
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/templehubsakshi/templehubsakshi/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <img src="https://cdn.jsdelivr.net/gh/templehubsakshi/templehubsakshi@output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
 </p>
 
 ---
