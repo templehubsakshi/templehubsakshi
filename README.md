@@ -178,24 +178,45 @@ I combine strong **DSA fundamentals (750+ problems)** with hands-on **MERN stack
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=templehubsakshi&theme=radical" alt="Profile details" />
+  <img src="https://streak-stats.demolab.com/?user=templehubsakshi&theme=radical&hide_border=false&border_radius=12" alt="GitHub Streak" />
+</p>
+
+### 📈 Profile Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=templehubsakshi&theme=2077" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=templehubsakshi&theme=radical" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=templehubsakshi&theme=radical" height="165" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=templehubsakshi&theme=2077" height="180" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=templehubsakshi&theme=2077&utcOffset=5.5" height="180" alt="Productive time" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=templehubsakshi&theme=radical" height="165" alt="Most commit language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=templehubsakshi&theme=radical" height="165" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=templehubsakshi&theme=2077" height="180" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=templehubsakshi&theme=2077" height="180" alt="Repos per language" />
 </p>
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=templehubsakshi&bg_color=0d1117&color=ff66c4&line=ff66c4&point=ffffff&area=true&hide_border=false" alt="Contribution graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/templehubsakshi/templehubsakshi@output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
+</p>
 ## 📈 Contribution Graph
 
 <p align="center">
