@@ -180,22 +180,30 @@ I combine strong **DSA fundamentals (750+ problems)** with hands-on **MERN stack
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=templehubsakshi&show_icons=true&theme=radical&border_radius=12&include_all_commits=true&count_private=false" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=templehubsakshi&theme=radical&border_radius=12" width="49%" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=templehubsakshi&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=templehubsakshi&theme=radical&hide_border=false" height="165" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=templehubsakshi&layout=compact&theme=radical&border_radius=12&langs_count=8" width="52%" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=templehubsakshi&layout=compact&theme=radical&hide_border=false&langs_count=8" height="165" alt="Top Languages" />
+</p>
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/templehubsakshi/templehubsakshi/output/github-contribution-grid-snake.svg" alt="Contribution snake eating github contributions" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=templehubsakshi&theme=react-dark&hide_border=false&area=true" alt="Contribution graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/templehubsakshi/templehubsakshi/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
 
 ---
 
